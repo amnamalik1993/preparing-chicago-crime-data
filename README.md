@@ -1,6 +1,10 @@
-# preparing-chicago-crime-data
+# Chicago Crime Data
  
 - This repo contains a notebook for processing Chiacgo Crime data into a repo-friendly format. 
 - To use this notebook: 
-    - either fork this repository to your own account, and then rename it to be someting like "Project-4"
-    - or download the notebook and save it in your own Project 4 repository.
+
+## Tableau Dashboard Link:
+
+https://public.tableau.com/app/profile/amna.malik/viz/ChicagoCrimeDashboard_16876722898190/MainDashboard?publish=yes
+
+<img width="681" alt="image" src="https://github.com/amnamalik1993/preparing-chicago-crime-data/assets/124516948/3a175897-0e59-4948-8248-b57f448f14f5">
